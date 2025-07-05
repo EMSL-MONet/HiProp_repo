@@ -1,6 +1,8 @@
 **Code Repository for Methodological differences in soil hydraulic property measurements impact soil respiration predictions**  
 ---
+## Getting started
 
+Use [HiProp_manuscript.ipynb](https://github.com/EMSL-MONet/HiProp_repo/blob/main/HiProp_manuscript.ipynb) notebook to reproduce figures from the manuscript.
 
 ## 📄 License
 
