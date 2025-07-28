@@ -1,4 +1,4 @@
-**Code Repository for Methodological differences in soil hydraulic property measurements impact soil respiration predictions**  
+**Code Repository for Simulated Soil Respiration is Sensitive to Soil Hydraulic Properties from Intact versus Repacked Cores**  
 ---
 ## Getting started
 
