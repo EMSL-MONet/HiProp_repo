@@ -1,6 +1,7 @@
 # HiProp: Soil Hydraulic Properties and Soil C Cycle Modeling
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15225637.svg)](https://doi.org/10.5281/zenodo.15225637)
+
 
 ## Overview
 
