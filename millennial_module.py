@@ -94,8 +94,8 @@ def Yan2018(theta,phi, clay,coloc_factor, rel_opt_theta,b):
     #     else:
     #         return 1
     def compute_a(clay, coloc_factor):
-        if clay <= 100/coloc_factor:
-            return (coloc_factor * clay / 100)
+        if clay <= (1+0.046)*100/coloc_factor:
+            return (coloc_factor * clay / 100) - 0.046
         else:
             return 1
     theta_opt =rel_opt_theta*phi 
@@ -373,7 +373,7 @@ def plot_pools(millennialC):
 # %%
 
 
-def ss_bar_chart(new_coloc=2.8,default_moisture=True, make_plot=False):
+def steady_state_bar_chart(new_coloc=2.8,default_moisture=True, make_plot=False):
     soil_dict, kinetic_dict, soil_texture=load_par()
     rainfall, daily_soil_temperatures, total_plant_input = ms.generate_forcings()
 
