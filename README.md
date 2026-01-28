@@ -1,4 +1,4 @@
-# HiProp: Soil Hydraulic Properties and Respiration Modeling
+# HiProp: Soil Hydraulic Properties and Soil C Cycle Modeling
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
